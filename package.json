@@ -1,0 +1,9 @@
+{
+  "name": "eslint-plugin-perf",
+  "version": "0.0.1",
+  "description": "An ESLint plugin that lints the performance of your code",
+  "main": "index.js",
+  "repository": "git@github.com:amilajack/eslint-plugin-perf.git",
+  "author": "Amila Welihinda <amilajack@gmail.com>",
+  "license": "MIT"
+}
